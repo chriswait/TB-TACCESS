@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.4.2)  22 JUN 2014 14:26
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2013.4.2)  22 JUN 2014 17:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -560,596 +560,310 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <9> not available
 (Font)              Font shape `OT1/phv/m/sl' tried instead on input line 189.
 
-<./images/emmetropic.jpg, id=411, 418.56375pt x 751.80875pt>
-File: ./images/emmetropic.jpg Graphic file (type jpg)
-
-<use ./images/emmetropic.jpg>
-Package pdftex.def Info: ./images/emmetropic.jpg used on input line 209.
-(pdftex.def)             Requested size: 198.0pt x 355.63301pt.
-
-<./images/irregAstigmatic.jpg, id=412, 377.41pt x 709.65125pt>
-File: ./images/irregAstigmatic.jpg Graphic file (type jpg)
-
-<use ./images/irregAstigmatic.jpg>
-Package pdftex.def Info: ./images/irregAstigmatic.jpg used on input line 214.
-(pdftex.def)             Requested size: 198.0pt x 372.30177pt.
-
-Overfull \hbox (18.46632pt too wide) in paragraph at lines 207--216
-[][]   [] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6 <./images/emmetropic.jpg> <./images/irregAstigmatic.jpg>]
-<./images/trekker2.png, id=439, 305.14pt x 654.445pt>
-File: ./images/trekker2.png Graphic file (type png)
-
-<use ./images/trekker2.png>
-Package pdftex.def Info: ./images/trekker2.png used on input line 255.
-(pdftex.def)             Requested size: 99.0pt x 212.33261pt.
-
-<./images/iPhone2.png, id=441, 133.23396pt x 280.21251pt>
-File: ./images/iPhone2.png Graphic file (type png)
-
-<use ./images/iPhone2.png>
-Package pdftex.def Info: ./images/iPhone2.png used on input line 260.
-(pdftex.def)             Requested size: 99.0pt x 208.22195pt.
-
-Overfull \hbox (2.11998pt too wide) in paragraph at lines 253--262
-[][]  [] 
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7]
-[8 <./images/trekker2.png> <./images/iPhone2.png>]
-<./images/edinbus.png, id=479, 642.4pt x 963.6pt>
+ [6]
+[7] <./images/edinbus.png, id=453, 642.4pt x 963.6pt>
 File: ./images/edinbus.png Graphic file (type png)
- <use ./images/edinbus.png>
-Package pdftex.def Info: ./images/edinbus.png used on input line 316.
-(pdftex.def)             Requested size: 158.39758pt x 237.59116pt.
 
-<./images/lothian.png, id=480, 642.4pt x 963.6pt>
+<use ./images/edinbus.png>
+Package pdftex.def Info: ./images/edinbus.png used on input line 287.
+(pdftex.def)             Requested size: 158.39758pt x 237.59116pt.
+ <./images/lothian.png, id=455, 642.4pt x 963.6pt>
 File: ./images/lothian.png Graphic file (type png)
- <use ./images/lothian.png>
-Package pdftex.def Info: ./images/lothian.png used on input line 322.
+
+<use ./images/lothian.png>
+Package pdftex.def Info: ./images/lothian.png used on input line 293.
 (pdftex.def)             Requested size: 158.39758pt x 237.59116pt.
-
-
-LaTeX Warning: Reference `sec:summ' on page 9 undefined on input line 328.
-
-[9 <./images/edinbus.png> <./images/lothian.png>]
-<./images/fob.png, id=503, 260.975pt x 460.21938pt>
-File: ./images/fob.png Graphic file (type png)
- <use ./images/fob.png>
-Package pdftex.def Info: ./images/fob.png used on input line 344.
-(pdftex.def)             Requested size: 118.80121pt x 209.50548pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<./images/scotTalk.png, id=510, 642.4pt x 963.6pt>
-File: ./images/scotTalk.png Graphic file (type png)
- <use ./images/scotTalk.png>
-Package pdftex.def Info: ./images/scotTalk.png used on input line 360.
-(pdftex.def)             Requested size: 118.80121pt x 178.18968pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \vbox (badness 2189) has occurred while \output is active []
+ [8 <./images/edinbus.png> <./images/lothian.png>]
+[9]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [10]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [11 <./images/fob.png> <./images/scotTalk.png>] [12] [13]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14]
-<./images/sysArc.png, id=555, 561.09625pt x 404.51125pt>
+[11] [12] <./images/sysArc.png, id=511, 561.09625pt x 404.51125pt>
 File: ./images/sysArc.png Graphic file (type png)
 
 <use ./images/sysArc.png>
-Package pdftex.def Info: ./images/sysArc.png used on input line 475.
+Package pdftex.def Info: ./images/sysArc.png used on input line 419.
 (pdftex.def)             Requested size: 277.19879pt x 199.83556pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[15] [16 <./images/sysArc.png>]
+ [13 <./images/sysArc.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17]
+ [14]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+[16] [17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [19]
-Underfull \vbox (badness 4084) has occurred while \output is active []
-
- [20]
-Underfull \vbox (badness 4454) has occurred while \output is active []
-
- [21]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [22]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [23]
 Underfull \vbox (badness 3068) has occurred while \output is active []
 
- [24]
-<./images/nearbyMockup.png, id=644, 283.0575pt x 511.9125pt>
-File: ./images/nearbyMockup.png Graphic file (type png)
-
-<use ./images/nearbyMockup.png>
-Package pdftex.def Info: ./images/nearbyMockup.png used on input line 753.
-(pdftex.def)             Requested size: 118.80121pt x 214.85336pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
+ [20]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25]
-<./images/interaction.png, id=654, 1542.76375pt x 555.07375pt>
+ [21]
+<./images/interaction.png, id=598, 1542.76375pt x 555.07375pt>
 File: ./images/interaction.png Graphic file (type png)
 
 <use ./images/interaction.png>
-Package pdftex.def Info: ./images/interaction.png used on input line 772.
+Package pdftex.def Info: ./images/interaction.png used on input line 654.
 (pdftex.def)             Requested size: 396.0pt x 142.47783pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[26 <./images/nearbyMockup.png (PNG copy)>] [27 <./images/interaction.png>]
-<./images/schema.png, id=674, 484.81125pt x 256.96pt>
+ [22 <./images/interaction.png>] [23]
+<./images/schema.png, id=620, 484.81125pt x 256.96pt>
 File: ./images/schema.png Graphic file (type png)
 
 <use ./images/schema.png>
-Package pdftex.def Info: ./images/schema.png used on input line 820.
+Package pdftex.def Info: ./images/schema.png used on input line 695.
 (pdftex.def)             Requested size: 316.80121pt x 167.91989pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \vbox (badness 5519) has occurred while \output is active []
-
- [28]
-[29 <./images/schema.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 850--854
+ [24 <./images/schema.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 725--729
 
  []
 
-<./images/join.png, id=687, 258.9675pt x 83.31125pt>
+<./images/join.png, id=627, 258.9675pt x 83.31125pt>
 File: ./images/join.png Graphic file (type png)
  <use ./images/join.png>
-Package pdftex.def Info: ./images/join.png used on input line 859.
+Package pdftex.def Info: ./images/join.png used on input line 734.
 (pdftex.def)             Requested size: 198.0pt x 63.69983pt.
 
-<./images/interface.png, id=689, 894.34125pt x 675.52374pt>
-File: ./images/interface.png Graphic file (type png)
+[25 <./images/join.png>] [26] [27]
+Underfull \vbox (badness 2189) has occurred while \output is active []
 
-<use ./images/interface.png>
-Package pdftex.def Info: ./images/interface.png used on input line 873.
-(pdftex.def)             Requested size: 316.80121pt x 239.29207pt.
+ [28]
+Underfull \vbox (badness 1960) has occurred while \output is active []
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[30 <./images/join.png>]
-Underfull \vbox (badness 4595) has occurred while \output is active []
-
- [31 <./images/interface.png>] [32]
-Underfull \vbox (badness 7379) has occurred while \output is active []
-
- [33]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [34]
-<./images/meeting.jpg, id=719, 3276.24pt x 2457.18pt>
+ [29]
+<./images/meeting.jpg, id=654, 3276.24pt x 2457.18pt>
 File: ./images/meeting.jpg Graphic file (type jpg)
 
 <use ./images/meeting.jpg>
-Package pdftex.def Info: ./images/meeting.jpg used on input line 1003.
+Package pdftex.def Info: ./images/meeting.jpg used on input line 871.
 (pdftex.def)             Requested size: 198.0pt x 148.47426pt.
- <./images/peter.jpg, id=720, 3276.24pt x 2457.18pt>
+ <./images/peter.jpg, id=655, 3276.24pt x 2457.18pt>
 File: ./images/peter.jpg Graphic file (type jpg)
 
 <use ./images/peter.jpg>
-Package pdftex.def Info: ./images/peter.jpg used on input line 1009.
+Package pdftex.def Info: ./images/peter.jpg used on input line 877.
 (pdftex.def)             Requested size: 198.0pt x 148.47426pt.
 
-Underfull \hbox (badness 1400) in paragraph at lines 1010--1010
-[]\OT1/pnc/m/n/10 Fig. 12: |A blind user tests the use of
+Underfull \hbox (badness 2261) in paragraph at lines 878--878
+[]\OT1/pnc/m/n/10 Fig. 6: |A blind user tests the use of
  []
 
 
-Overfull \hbox (18.46632pt too wide) in paragraph at lines 1001--1012
+Overfull \hbox (18.46632pt too wide) in paragraph at lines 869--880
 [][]   [] 
  []
 
-[35 <./images/meeting.jpg> <./images/peter.jpg>]
-<./images/favFlow.png, id=726, 2007.5pt x 617.30624pt>
+[30 <./images/meeting.jpg> <./images/peter.jpg>]
+<./images/favFlow.png, id=661, 2007.5pt x 617.30624pt>
 File: ./images/favFlow.png Graphic file (type png)
 
 <use ./images/favFlow.png>
-Package pdftex.def Info: ./images/favFlow.png used on input line 1033.
+Package pdftex.def Info: ./images/favFlow.png used on input line 901.
 (pdftex.def)             Requested size: 396.0pt x 121.76358pt.
- [36 <./images/favFlow.png>]
-
-Package Listings Warning: Unknown column format `space-flexible' on input line 
-1042.
-
-[37] <./images/busStopNames.png, id=763, 835.12pt x 276.03125pt>
+ [31 <./images/favFlow.png>]
+<./images/busStopNames.png, id=671, 835.12pt x 276.03125pt>
 File: ./images/busStopNames.png Graphic file (type png)
 
 <use ./images/busStopNames.png>
-Package pdftex.def Info: ./images/busStopNames.png used on input line 1088.
+Package pdftex.def Info: ./images/busStopNames.png used on input line 923.
 (pdftex.def)             Requested size: 396.0pt x 130.89296pt.
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1088--1089
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 923--924
  [][] 
  []
 
-[38 <./images/busStopNames.png>]
-<./images/updateArch.png, id=770, 828.09375pt x 381.425pt>
-File: ./images/updateArch.png Graphic file (type png)
-
-<use ./images/updateArch.png>
-Package pdftex.def Info: ./images/updateArch.png used on input line 1118.
-(pdftex.def)             Requested size: 396.0pt x 182.40096pt.
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 1118--1119
- [][] 
- []
-
-[39 <./images/updateArch.png>]
-<./images/group.jpg, id=777, 3276.24pt x 2136.98375pt>
+[32 <./images/busStopNames.png>]
+<./images/group.jpg, id=678, 3276.24pt x 2136.98375pt>
 File: ./images/group.jpg Graphic file (type jpg)
 
 <use ./images/group.jpg>
-Package pdftex.def Info: ./images/group.jpg used on input line 1140.
+Package pdftex.def Info: ./images/group.jpg used on input line 946.
 (pdftex.def)             Requested size: 198.0pt x 129.12651pt.
 
-<./images/group2.jpg, id=778, 3276.24pt x 2136.98375pt>
+<./images/group2.jpg, id=679, 3276.24pt x 2136.98375pt>
 File: ./images/group2.jpg Graphic file (type jpg)
 
 <use ./images/group2.jpg>
-Package pdftex.def Info: ./images/group2.jpg used on input line 1145.
+Package pdftex.def Info: ./images/group2.jpg used on input line 951.
 (pdftex.def)             Requested size: 198.0pt x 129.12651pt.
 
-Overfull \hbox (18.46632pt too wide) in paragraph at lines 1138--1147
+Overfull \hbox (18.46632pt too wide) in paragraph at lines 944--953
 [][]   [] 
  []
 
-[40 <./images/group.jpg> <./images/group2.jpg>]
-<./images/dataModelDesigner.png, id=786, 691.08188pt x 369.38pt>
-File: ./images/dataModelDesigner.png Graphic file (type png)
-
-<use ./images/dataModelDesigner.png>
-Package pdftex.def Info: ./images/dataModelDesigner.png used on input line 1164
-.
-(pdftex.def)             Requested size: 316.80121pt x 169.33067pt.
- [41 <./images/dataModelDesigner.png>]
-<./images/searchFlow.png, id=795, 2007.5pt x 617.30624pt>
+<./images/searchFlow.png, id=680, 2007.5pt x 617.30624pt>
 File: ./images/searchFlow.png Graphic file (type png)
 
 <use ./images/searchFlow.png>
-Package pdftex.def Info: ./images/searchFlow.png used on input line 1191.
+Package pdftex.def Info: ./images/searchFlow.png used on input line 967.
 (pdftex.def)             Requested size: 396.0pt x 121.76358pt.
- [42 <./images/searchFlow.png>]
-<./images/smoothGraph.png, id=803, 1001.6622pt x 583.2189pt>
+ [33 <./images/group.jpg> <./images/group2.jpg>]
+<./images/smoothGraph.png, id=687, 1001.6622pt x 583.2189pt>
 File: ./images/smoothGraph.png Graphic file (type png)
 
 <use ./images/smoothGraph.png>
-Package pdftex.def Info: ./images/smoothGraph.png used on input line 1215.
+Package pdftex.def Info: ./images/smoothGraph.png used on input line 987.
 (pdftex.def)             Requested size: 396.0pt x 230.56917pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[34 <./images/searchFlow.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \vbox (badness 1057) has occurred while \output is active []
-
- [43]
-[44 <./images/smoothGraph.png>] <./images/tb1.png, id=819, 642.4pt x 963.6pt>
+ [35 <./images/smoothGraph.png>] <./images/tb1.png, id=704, 642.4pt x 963.6pt>
 File: ./images/tb1.png Graphic file (type png)
 
 <use ./images/tb1.png>
-Package pdftex.def Info: ./images/tb1.png used on input line 1259.
+Package pdftex.def Info: ./images/tb1.png used on input line 1036.
 (pdftex.def)             Requested size: 138.5994pt x 207.89043pt.
- <./images/lb1.png, id=820, 642.4pt x 963.6pt>
+ <./images/lb1.png, id=705, 642.4pt x 963.6pt>
 File: ./images/lb1.png Graphic file (type png)
 
 <use ./images/lb1.png>
-Package pdftex.def Info: ./images/lb1.png used on input line 1264.
+Package pdftex.def Info: ./images/lb1.png used on input line 1041.
 (pdftex.def)             Requested size: 138.5994pt x 207.89043pt.
 
-Overfull \hbox (2.11998pt too wide) in paragraph at lines 1257--1266
+Overfull \hbox (2.11998pt too wide) in paragraph at lines 1034--1043
 [][]  [] 
  []
 
-<./images/tb2.png, id=821, 642.4pt x 963.6pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<./images/tb2.png, id=706, 642.4pt x 963.6pt>
 File: ./images/tb2.png Graphic file (type png)
  <use ./images/tb2.png>
-Package pdftex.def Info: ./images/tb2.png used on input line 1280.
+Package pdftex.def Info: ./images/tb2.png used on input line 1058.
 (pdftex.def)             Requested size: 138.5994pt x 207.89043pt.
 
-<./images/lb2.png, id=822, 642.4pt x 963.6pt>
+<./images/lb2.png, id=707, 642.4pt x 963.6pt>
 File: ./images/lb2.png Graphic file (type png)
  <use ./images/lb2.png>
-Package pdftex.def Info: ./images/lb2.png used on input line 1285.
+Package pdftex.def Info: ./images/lb2.png used on input line 1063.
 (pdftex.def)             Requested size: 138.5994pt x 207.89043pt.
 
-Overfull \hbox (2.11998pt too wide) in paragraph at lines 1278--1287
+Overfull \hbox (2.11998pt too wide) in paragraph at lines 1056--1065
 [][]  [] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[45 <./images/tb1.png> <./images/lb1.png>]
-<./images/tb3.png, id=830, 642.4pt x 963.6pt>
+[36]
+Underfull \vbox (badness 4193) has occurred while \output is active []
+
+ [37 <./images/tb1.png> <./images/lb1.png> <./images/tb2.png> <./images/lb2.png
+>]
+<./images/tb3.png, id=723, 642.4pt x 963.6pt>
 File: ./images/tb3.png Graphic file (type png)
  <use ./images/tb3.png>
-Package pdftex.def Info: ./images/tb3.png used on input line 1301.
+Package pdftex.def Info: ./images/tb3.png used on input line 1080.
 (pdftex.def)             Requested size: 138.5994pt x 207.89043pt.
 
-<./images/lb3.png, id=831, 642.4pt x 963.6pt>
+<./images/lb3.png, id=724, 642.4pt x 963.6pt>
 File: ./images/lb3.png Graphic file (type png)
  <use ./images/lb3.png>
-Package pdftex.def Info: ./images/lb3.png used on input line 1306.
+Package pdftex.def Info: ./images/lb3.png used on input line 1085.
 (pdftex.def)             Requested size: 138.5994pt x 207.89043pt.
 
-Overfull \hbox (2.11998pt too wide) in paragraph at lines 1299--1308
+Overfull \hbox (2.11998pt too wide) in paragraph at lines 1078--1087
 [][]  [] 
  []
 
+<./images/iSim_all.png, id=725, 250.9375pt x 311.1625pt>
+File: ./images/iSim_all.png Graphic file (type png)
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./images/tbiSim.png, id=832, 483.8075pt x 529.98pt>
-File: ./images/tbiSim.png Graphic file (type png)
- <use ./images/tbiSim.png>
-Package pdftex.def Info: ./images/tbiSim.png used on input line 1318.
-(pdftex.def)             Requested size: 483.80632pt x 529.97868pt.
-
-Overfull \hbox (53.7913pt too wide) in paragraph at lines 1317--1319
-[]|  [] 
- []
-
-<./images/lbiSim.png, id=833, 483.8075pt x 529.98pt>
-File: ./images/lbiSim.png Graphic file (type png)
- <use ./images/lbiSim.png>
-Package pdftex.def Info: ./images/lbiSim.png used on input line 1325.
-(pdftex.def)             Requested size: 483.80632pt x 529.97868pt.
-
-Overfull \hbox (17.65631pt too wide) in paragraph at lines 1324--1326
-[]|  [] 
- []
-
-
+<use ./images/iSim_all.png>
+Package pdftex.def Info: ./images/iSim_all.png used on input line 1097.
+(pdftex.def)             Requested size: 250.93687pt x 311.16174pt.
+ [38 <./images/tb3.png> <./images/lb3.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [46 <./images/tb2.png> <./images/lb2.png>]
-Underfull \vbox (badness 2189) has occurred while \output is active []
-
- [47 <./images/tb3.png> <./images/lb3.png>] [48 <./images/tbiSim.png>] [49 <./i
-mages/lbiSim.png>] <./images/rig.jpg, id=863, 2661.945pt x 1907.125pt>
+ [39 <./images/iSim_all.png>] [40] <./images/rig.jpg, id=745, 2661.945pt x 1907
+.125pt>
 File: ./images/rig.jpg Graphic file (type jpg)
 
 <use ./images/rig.jpg>
-Package pdftex.def Info: ./images/rig.jpg used on input line 1372.
+Package pdftex.def Info: ./images/rig.jpg used on input line 1144.
 (pdftex.def)             Requested size: 198.0pt x 141.83508pt.
+
+<./images/combined.png, id=746, 800.9925pt x 386.44376pt>
+File: ./images/combined.png Graphic file (type png)
+
+<use ./images/combined.png>
+Package pdftex.def Info: ./images/combined.png used on input line 1156.
+(pdftex.def)             Requested size: 277.19879pt x 133.736pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[41 <./images/rig.jpg>]
+<./images/combined2.png, id=753, 1601.985pt x 709.65125pt>
+File: ./images/combined2.png Graphic file (type png)
+
+<use ./images/combined2.png>
+Package pdftex.def Info: ./images/combined2.png used on input line 1187.
+(pdftex.def)             Requested size: 277.19879pt x 122.79396pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \vbox (badness 4832) has occurred while \output is active []
+Underfull \vbox (badness 2772) has occurred while \output is active []
 
- [50]
-<./images/combined.png, id=868, 800.9925pt x 386.44376pt>
-File: ./images/combined.png Graphic file (type png)
-
-<use ./images/combined.png>
-Package pdftex.def Info: ./images/combined.png used on input line 1384.
-(pdftex.def)             Requested size: 277.19879pt x 133.736pt.
- [51 <./images/rig.jpg> <./images/combined.png>]
-<./images/combined2.png, id=878, 1601.985pt x 709.65125pt>
-File: ./images/combined2.png Graphic file (type png)
-
-<use ./images/combined2.png>
-Package pdftex.def Info: ./images/combined2.png used on input line 1415.
-(pdftex.def)             Requested size: 277.19879pt x 122.79396pt.
- [52 <./images/combined2.png>]
-Underfull \vbox (badness 2418) has occurred while \output is active []
-
- [53]
+ [42 <./images/combined.png>] [43 <./images/combined2.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [54]
-<./images/chart_1.png, id=893, 496.85625pt x 241.90375pt>
+ [44]
+<./images/chart_1.png, id=771, 496.85625pt x 241.90375pt>
 File: ./images/chart_1.png Graphic file (type png)
 
 <use ./images/chart_1.png>
-Package pdftex.def Info: ./images/chart_1.png used on input line 1472.
+Package pdftex.def Info: ./images/chart_1.png used on input line 1244.
 (pdftex.def)             Requested size: 356.39758pt x 173.52092pt.
 
-<./images/chart_2.png, id=894, 496.85625pt x 241.90375pt>
+<./images/chart_2.png, id=772, 496.85625pt x 241.90375pt>
 File: ./images/chart_2.png Graphic file (type png)
 
 <use ./images/chart_2.png>
-Package pdftex.def Info: ./images/chart_2.png used on input line 1478.
+Package pdftex.def Info: ./images/chart_2.png used on input line 1250.
 (pdftex.def)             Requested size: 356.39758pt x 173.52092pt.
- [55 <./images/chart_1.png> <./images/chart_2.png>]
-<./images/heatmap.png, id=906, 663.47874pt x 304.13625pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[45 <./images/chart_1.png>]
+<./images/heatmap.png, id=781, 663.47874pt x 304.13625pt>
 File: ./images/heatmap.png Graphic file (type png)
 
 <use ./images/heatmap.png>
-Package pdftex.def Info: ./images/heatmap.png used on input line 1495.
+Package pdftex.def Info: ./images/heatmap.png used on input line 1267.
 (pdftex.def)             Requested size: 396.0pt x 181.52716pt.
 
-<./images/chart_3.png, id=907, 391.4625pt x 242.9075pt>
+<./images/chart_3.png, id=782, 391.4625pt x 242.9075pt>
 File: ./images/chart_3.png Graphic file (type png)
 
 <use ./images/chart_3.png>
-Package pdftex.def Info: ./images/chart_3.png used on input line 1502.
+Package pdftex.def Info: ./images/chart_3.png used on input line 1274.
 (pdftex.def)             Requested size: 396.0pt x 245.73491pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[56 <./images/heatmap.png>] [57 <./images/chart_3.png>]
+[46 <./images/chart_2.png> <./images/heatmap.png>] [47 <./images/chart_3.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [58]
-[59] <Survey.pdf, id=934, page=1, 614.295pt x 794.97pt>
-File: Survey.pdf Graphic file (type pdf)
-
-<use Survey.pdf, page 1>
-Package pdftex.def Info: Survey.pdf, page1 used on input line 1563.
-(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 1>
-Package pdftex.def Info: Survey.pdf, page1 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 1>
-Package pdftex.def Info: Survey.pdf, page1 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
-
-<use Survey.pdf, page 1>
-Package pdftex.def Info: Survey.pdf, page1 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 1>
-Package pdftex.def Info: Survey.pdf, page1 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
- [60 <./Survey.pdf>]
-<Survey.pdf, id=969, page=2, 614.295pt x 794.97pt>
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 2>
-Package pdftex.def Info: Survey.pdf, page2 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
-
-<use Survey.pdf, page 2>
-Package pdftex.def Info: Survey.pdf, page2 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 2>
-Package pdftex.def Info: Survey.pdf, page2 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
- [61 <./Survey.pdf>]
-<Survey.pdf, id=991, page=3, 614.295pt x 794.97pt>
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 3>
-Package pdftex.def Info: Survey.pdf, page3 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
-
-<use Survey.pdf, page 3>
-Package pdftex.def Info: Survey.pdf, page3 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 3>
-Package pdftex.def Info: Survey.pdf, page3 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
- [62 <./Survey.pdf>]
-<Survey.pdf, id=996, page=4, 614.295pt x 794.97pt>
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 4>
-Package pdftex.def Info: Survey.pdf, page4 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
-
-<use Survey.pdf, page 4>
-Package pdftex.def Info: Survey.pdf, page4 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 4>
-Package pdftex.def Info: Survey.pdf, page4 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
- [63 <./Survey.pdf>]
-<Survey.pdf, id=1001, page=5, 614.295pt x 794.97pt>
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 5>
-Package pdftex.def Info: Survey.pdf, page5 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
-
-<use Survey.pdf, page 5>
-Package pdftex.def Info: Survey.pdf, page5 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 5>
-Package pdftex.def Info: Survey.pdf, page5 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
- [64 <./Survey.pdf>]
-<Survey.pdf, id=1006, page=6, 614.295pt x 794.97pt>
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 6>
-Package pdftex.def Info: Survey.pdf, page6 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
-
-<use Survey.pdf, page 6>
-Package pdftex.def Info: Survey.pdf, page6 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 6>
-Package pdftex.def Info: Survey.pdf, page6 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
- [65 <./Survey.pdf>]
-<Survey.pdf, id=1011, page=7, 614.295pt x 794.97pt>
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 7>
-Package pdftex.def Info: Survey.pdf, page7 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
-
-<use Survey.pdf, page 7>
-Package pdftex.def Info: Survey.pdf, page7 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 7>
-Package pdftex.def Info: Survey.pdf, page7 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
- [66 <./Survey.pdf>]
-<Survey.pdf, id=1016, page=8, 614.295pt x 794.97pt>
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 8>
-Package pdftex.def Info: Survey.pdf, page8 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
-
-<use Survey.pdf, page 8>
-Package pdftex.def Info: Survey.pdf, page8 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
-File: Survey.pdf Graphic file (type pdf)
- <use Survey.pdf, page 8>
-Package pdftex.def Info: Survey.pdf, page8 used on input line 1563.
-(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
- [67 <./Survey.pdf>]
+ [48]
 (./v2-acmsmall-sample.bbl
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 42.
@@ -1195,83 +909,71 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--128
 le . html # /apple[]ref / doc /
  []
 
-
-Underfull \hbox (badness 1629) in paragraph at lines 162--168
-[]\OT1/pnc/m/n/10 Apple Inc. 2014.  Lo-ca-tion and Maps Pro-gram-ming Guide.  (
-2014).  []$https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 162--168
-\OT1/pnc/m/n/10 / / developer . apple . com / library / ios / documentation / u
-serexperience / conceptual /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 183--189
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 173--179
 \OT1/pnc/m/n/10 mckinsey / dotcom / client[]service / High % 20Tech / PDFs / Ma
 king[]smartphones[]brilliant[]
- []
-
-[68]
-Underfull \hbox (badness 1365) in paragraph at lines 346--352
-[]\OT1/pnc/m/n/10 Lothian Buses. 2013.  Wi-Fi on our buses.  (2013).  []$http :
- / / lothianbuses . com /
- []
-
-
-Underfull \hbox (badness 2035) in paragraph at lines 367--373
-[]\OT1/pnc/m/n/10 Stuart Lowrie. 2012.  Real-time pas-sen-ger in-for-ma-tion in
- Ed-in-burgh - Bus-
- []
-
-
-Underfull \hbox (badness 2556) in paragraph at lines 389--398
-[]\OT1/pnc/m/n/10 Felix Mata, An-dres Jaramillo, and Christophe Clara-munt. 201
-1.  A Mo-bile
- []
-
-
-Underfull \hbox (badness 3128) in paragraph at lines 389--398
-\OT1/pnc/m/n/10 Nav-i-ga-tion and Ori-en-ta-tion Sys-tem for Blind Users in a M
-etrobus En-vi-
- []
-
-
-Underfull \hbox (badness 1748) in paragraph at lines 389--398
-\OT1/pnc/m/n/10 ron-ment.  In \OT1/pnc/m/it/10 Web and Wire-less Ge-o-graph-i-c
-al In-for-ma-tion Sys-tems\OT1/pnc/m/n/10 . Lec-ture
- []
-
-
-Underfull \hbox (badness 1953) in paragraph at lines 389--398
-\OT1/pnc/m/n/10 Notes in Com-puter Sci-ence, Vol. 6574. Springer Berlin Hei-del
--berg, 94--108.
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [69]
-Underfull \hbox (badness 10000) in paragraph at lines 499--505
+ [50]
+Underfull \hbox (badness 1365) in paragraph at lines 336--342
+[]\OT1/pnc/m/n/10 Lothian Buses. 2013.  Wi-Fi on our buses.  (2013).  []$http :
+ / / lothianbuses . com /
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 357--363
+[]\OT1/pnc/m/n/10 Stuart Lowrie. 2012.  Real-time pas-sen-ger in-for-ma-tion in
+ Ed-in-burgh - Bus-
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 379--388
+[]\OT1/pnc/m/n/10 Felix Mata, An-dres Jaramillo, and Christophe Clara-munt. 201
+1.  A Mo-bile
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 379--388
+\OT1/pnc/m/n/10 Nav-i-ga-tion and Ori-en-ta-tion Sys-tem for Blind Users in a M
+etrobus En-vi-
+ []
+
+
+Underfull \hbox (badness 1748) in paragraph at lines 379--388
+\OT1/pnc/m/n/10 ron-ment.  In \OT1/pnc/m/it/10 Web and Wire-less Ge-o-graph-i-c
+al In-for-ma-tion Sys-tems\OT1/pnc/m/n/10 . Lec-ture
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 379--388
+\OT1/pnc/m/n/10 Notes in Com-puter Sci-ence, Vol. 6574. Springer Berlin Hei-del
+-berg, 94--108.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--495
 \OT1/pnc/m/n/10 campaign / gettingaround / Documents / Stop[]for[]me[]speak[]to
 []me[]bus[]campaign[]
  []
 
 
-Underfull \hbox (badness 7685) in paragraph at lines 509--515
+Underfull \hbox (badness 7685) in paragraph at lines 499--505
 []\OT1/pnc/m/n/10 RNIB. 2013.  Sight Prob-lems Guide.  (2013).  []$http : / / w
 ww . rnib . org . uk /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--526
+Underfull \hbox (badness 10000) in paragraph at lines 509--516
 []\OT1/pnc/m/n/10 ScotRail. 2007.  On track for a pos-i-tive 'react'-ion fol-lo
 w-ing in-vest-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--526
+Underfull \hbox (badness 10000) in paragraph at lines 509--516
 \OT1/pnc/m/n/10 ment from First Sco-tRail.  (2007).  []$http : / / www . scotra
 il . co . uk / content /
  []
@@ -1279,33 +981,183 @@ il . co . uk / content /
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [70])
-[71]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1599.
- [1
+ [51])
+[52] [1
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1599.
+] <Survey.pdf, id=936, page=1, 614.295pt x 794.97pt>
+File: Survey.pdf Graphic file (type pdf)
+
+<use Survey.pdf, page 1>
+Package pdftex.def Info: Survey.pdf, page1 used on input line 1355.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 1>
+Package pdftex.def Info: Survey.pdf, page1 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 1>
+Package pdftex.def Info: Survey.pdf, page1 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+
+<use Survey.pdf, page 1>
+Package pdftex.def Info: Survey.pdf, page1 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 1>
+Package pdftex.def Info: Survey.pdf, page1 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+ [2 <./Survey.pdf>]
+<Survey.pdf, id=971, page=2, 614.295pt x 794.97pt>
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 2>
+Package pdftex.def Info: Survey.pdf, page2 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+
+<use Survey.pdf, page 2>
+Package pdftex.def Info: Survey.pdf, page2 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 2>
+Package pdftex.def Info: Survey.pdf, page2 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+ [3 <./Survey.pdf>]
+<Survey.pdf, id=993, page=3, 614.295pt x 794.97pt>
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 3>
+Package pdftex.def Info: Survey.pdf, page3 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+
+<use Survey.pdf, page 3>
+Package pdftex.def Info: Survey.pdf, page3 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 3>
+Package pdftex.def Info: Survey.pdf, page3 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+ [4 <./Survey.pdf>]
+<Survey.pdf, id=998, page=4, 614.295pt x 794.97pt>
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 4>
+Package pdftex.def Info: Survey.pdf, page4 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+
+<use Survey.pdf, page 4>
+Package pdftex.def Info: Survey.pdf, page4 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 4>
+Package pdftex.def Info: Survey.pdf, page4 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+ [5 <./Survey.pdf>]
+<Survey.pdf, id=1003, page=5, 614.295pt x 794.97pt>
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 5>
+Package pdftex.def Info: Survey.pdf, page5 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+
+<use Survey.pdf, page 5>
+Package pdftex.def Info: Survey.pdf, page5 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 5>
+Package pdftex.def Info: Survey.pdf, page5 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+ [6 <./Survey.pdf>]
+<Survey.pdf, id=1008, page=6, 614.295pt x 794.97pt>
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 6>
+Package pdftex.def Info: Survey.pdf, page6 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+
+<use Survey.pdf, page 6>
+Package pdftex.def Info: Survey.pdf, page6 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 6>
+Package pdftex.def Info: Survey.pdf, page6 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+ [7 <./Survey.pdf>]
+<Survey.pdf, id=1013, page=7, 614.295pt x 794.97pt>
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 7>
+Package pdftex.def Info: Survey.pdf, page7 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+
+<use Survey.pdf, page 7>
+Package pdftex.def Info: Survey.pdf, page7 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 7>
+Package pdftex.def Info: Survey.pdf, page7 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+ [8 <./Survey.pdf>]
+<Survey.pdf, id=1018, page=8, 614.295pt x 794.97pt>
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 8>
+Package pdftex.def Info: Survey.pdf, page8 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+
+<use Survey.pdf, page 8>
+Package pdftex.def Info: Survey.pdf, page8 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+File: Survey.pdf Graphic file (type pdf)
+ <use Survey.pdf, page 8>
+Package pdftex.def Info: Survey.pdf, page8 used on input line 1355.
+(pdftex.def)             Requested size: 460.72011pt x 596.22604pt.
+ [9 <./Survey.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 4832) has occurred while \output is active []
+
+ [11]
+<./images/updateArch.png, id=1035, 828.09375pt x 381.425pt>
+File: ./images/updateArch.png Graphic file (type png)
+
+<use ./images/updateArch.png>
+Package pdftex.def Info: ./images/updateArch.png used on input line 1438.
+(pdftex.def)             Requested size: 396.0pt x 182.40096pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 1438--1439
+ [][] 
+ []
+
+[12 <./images/updateArch.png>]
+<./images/dataModelDesigner.png, id=1045, 691.08188pt x 369.38pt>
+File: ./images/dataModelDesigner.png Graphic file (type png)
+
+<use ./images/dataModelDesigner.png>
+Package pdftex.def Info: ./images/dataModelDesigner.png used on input line 1456
+.
+(pdftex.def)             Requested size: 316.80121pt x 169.33067pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1472.
+ [13 <./images/dataModelDesigner.png>]
+[14]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1472.
  (./v2-acmsmall-sample.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1599.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1599.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1472.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1472.
 
 Package rerunfilecheck Info: File `v2-acmsmall-sample.out' has not changed.
-(rerunfilecheck)             Checksum: D81345CB6EA1455C5C1F437297676652;5930.
-
-
-LaTeX Warning: There were undefined references.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1599.
+(rerunfilecheck)             Checksum: 5F407EE138B6E32FD5D067A3DC66EB3F;5607.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1472.
  ) 
 Here is how much of TeX's memory you used:
- 12013 strings out of 493481
- 177748 string characters out of 3140966
- 307457 words of memory out of 3000000
- 14883 multiletter control sequences out of 15000+200000
+ 11911 strings out of 493481
+ 175873 string characters out of 3140966
+ 304854 words of memory out of 3000000
+ 14829 multiletter control sequences out of 15000+200000
  29260 words of font info for 59 fonts, out of 3000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,19n,49p,944b,875s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,19n,49p,944b,557s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/local/texlive/2012/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
 ive/2012/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
@@ -1319,10 +1171,10 @@ nts/type1/urw/helvetic/uhvro8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/ty
 pe1/urw/ncntrsbk/uncb8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw
 /ncntrsbk/uncr8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/ncntrs
 bk/uncri8a.pfb>
-Output written on v2-acmsmall-sample.pdf (72 pages, 17055719 bytes).
+Output written on v2-acmsmall-sample.pdf (66 pages, 14665088 bytes).
 PDF statistics:
- 1249 PDF objects out of 1440 (max. 8388607)
- 1063 compressed objects within 11 object streams
- 266 named destinations out of 1000 (max. 500000)
- 870 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1151 PDF objects out of 1200 (max. 8388607)
+ 987 compressed objects within 10 object streams
+ 227 named destinations out of 1000 (max. 500000)
+ 801 words of extra memory for PDF output out of 10000 (max. 10000000)
 

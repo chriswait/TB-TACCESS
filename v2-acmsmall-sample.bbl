@@ -157,16 +157,6 @@
 \url{http://manuals.info.apple.com/MANUALS/1000/MA1565/en_US/iphone_user_guide.pdf}}
 
 
-\bibitem[\protect\citeauthoryear{{Apple Inc.}}{{Apple Inc.}}{2014}]%
-        {coreLocation}
-{{Apple Inc.}} 2014.
-\newblock Location and Maps Programming Guide.
-\newblock   (2014).
-\newblock
-\showURL{%
-\url{https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/CoreLocation/CoreLocation.html}}
-
-
 \bibitem[\protect\citeauthoryear{{Ariadne GPS}}{{Ariadne GPS}}{2014}]%
         {ariadneGPS}
 {{Ariadne GPS}}. 2014.

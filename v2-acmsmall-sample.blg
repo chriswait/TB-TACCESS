@@ -9,45 +9,45 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Warning--no number and no volume in percept
 Warning--require articleno with numpages field in voiceover
 Warning--empty address in metrobus
-You've used 56 entries,
+You've used 55 entries,
             5290 wiz_defined-function locations,
-            1493 strings with 22600 characters,
-and the built_in function-call counts, 82782 in all, are:
-= -- 11086
-> -- 1392
+            1489 strings with 22411 characters,
+and the built_in function-call counts, 80502 in all, are:
+= -- 10767
+> -- 1372
 < -- 1
-+ -- 347
-- -- 3994
-* -- 5559
-:= -- 8377
-add.period$ -- 283
-call.type$ -- 56
-change.case$ -- 303
-chr.to.int$ -- 51
-cite$ -- 59
-duplicate$ -- 3182
-empty$ -- 2400
-format.name$ -- 575
-if$ -- 15221
++ -- 343
+- -- 3856
+* -- 5399
+:= -- 8166
+add.period$ -- 278
+call.type$ -- 55
+change.case$ -- 298
+chr.to.int$ -- 50
+cite$ -- 58
+duplicate$ -- 3130
+empty$ -- 2360
+format.name$ -- 567
+if$ -- 14837
 int.to.chr$ -- 6
 int.to.str$ -- 0
 missing$ -- 26
-newline$ -- 593
-num.names$ -- 443
-pop$ -- 1184
+newline$ -- 583
+num.names$ -- 435
+pop$ -- 1164
 preamble$ -- 1
-purify$ -- 578
+purify$ -- 568
 quote$ -- 0
-skip$ -- 957
+skip$ -- 942
 stack$ -- 0
-substring$ -- 16519
-swap$ -- 243
-text.length$ -- 6976
+substring$ -- 15957
+swap$ -- 240
+text.length$ -- 6715
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 784
+type$ -- 770
 warning$ -- 3
-while$ -- 483
+while$ -- 474
 width$ -- 0
-write$ -- 1100
+write$ -- 1081
 (There were 3 warnings)
