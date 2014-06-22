@@ -1,0 +1,631 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{00}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{{\tt DOI:}\penalty0{#1}\ }
+  \fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       #1{#1}          \fi
+
+\bibitem[\protect\citeauthoryear{{ABI Research}}{{ABI Research}}{2014}]%
+        {marketShare}
+{{ABI Research}}. 2014.
+\newblock Q4 2013 Smartphone OSResults.
+\newblock   (2014).
+\newblock
+\showURL{%
+\url{https://www.abiresearch.com/press/q4-2013-smartphone-os-results-is-google-losing-con}}
+
+
+\bibitem[\protect\citeauthoryear{{Amazon inc.}}{{Amazon inc.}}{2012a}]%
+        {freeAWS}
+{{Amazon inc.}} 2012a.
+\newblock AWS Free Usage Tier.
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{http://aws.amazon.com/free/}}
+
+
+\bibitem[\protect\citeauthoryear{{Amazon inc.}}{{Amazon inc.}}{2012b}]%
+        {elasticIP}
+{{Amazon inc.}} 2012b.
+\newblock Feature Guide: Amazon EC2 Elastic IP Addresses.
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{http://aws.amazon.com/ec2/?nc1=h_l2_cn}}
+
+
+\bibitem[\protect\citeauthoryear{{Amazon inc.}}{{Amazon inc.}}{2014}]%
+        {ec2}
+{{Amazon inc.}} 2014.
+\newblock Amazon EC2.
+\newblock   (2014).
+\newblock
+\showURL{%
+\url{http://aws.amazon.com/ec2/?nc1=h_l2_cn}}
+
+
+\bibitem[\protect\citeauthoryear{{American Optometric Association}}{{American
+  Optometric Association}}{2010}]%
+        {aoa}
+{{American Optometric Association}}. 2010.
+\newblock Care of the patient with Visual Impairment.
+\newblock   (2010).
+\newblock
+\showURL{%
+\url{http://www.aoa.org/documents/optometrists/CPG-14.pdf}}
+
+
+\bibitem[\protect\citeauthoryear{{American Optometric Association}}{{American
+  Optometric Association}}{2012}]%
+        {eyesmart}
+{{American Optometric Association}}. 2012.
+\newblock What Are Cataracts?
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{http://www.geteyesmart.org/eyesmart/diseases/cataracts/index.cfm}}
+
+
+\bibitem[\protect\citeauthoryear{Anderson, Abeywardana, Wolf, and Lee}{Anderson
+  et~al\mbox{.}}{2013}]%
+        {gpsFeasibility}
+{Tracy Anderson}, {Varunie Abeywardana}, {Jean Wolf}, {and} {Michelle Lee}.
+  2013.
+\newblock National Travel Survey - GPS Feasibility Study (Final Report).
+\newblock   (2013).
+\newblock
+\showURL{%
+\url{https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/230570/NTS_GPS_Feasibility_Study_Final_Report.pdf}}
+
+
+\bibitem[\protect\citeauthoryear{{Apple inc.}}{{Apple inc.}}{2010}]%
+        {ios3}
+{{Apple inc.}} 2010.
+\newblock iOS 3.0 API Diffs.
+\newblock   (2010).
+\newblock
+\showURL{%
+\url{https://developer.apple.com/library/ios/releasenotes/General/iPhone30APIDiffs/index.html\#//apple_ref/doc/uid/TP40008401}}
+
+
+\bibitem[\protect\citeauthoryear{{Apple Inc.}}{{Apple Inc.}}{2012}]%
+        {appleVOGuidelines}
+{{Apple Inc.}} 2012.
+\newblock Accessibility Programming Guide for iOS - Supply Accurate and Helpful
+  Attribute Information.
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{https://developer.apple.com/library/ios/documentation/userexperience/conceptual/iPhoneAccessibility/Making_Application_Accessible/Making_Application_Accessible.html\#/apple_ref/doc/uid/TP40008785-CH102-SW6}}
+
+
+\bibitem[\protect\citeauthoryear{{Apple inc.}}{{Apple inc.}}{2014}]%
+        {appleDistribution}
+{{Apple inc.}} 2014.
+\newblock App Store Distribution.
+\newblock   (2014).
+\newblock
+\showURL{%
+\url{https://developer.apple.com/support/appstore/}}
+
+
+\bibitem[\protect\citeauthoryear{{Apple Inc.}}{{Apple Inc.}}{2014}]%
+        {coreData}
+{{Apple Inc.}} 2014.
+\newblock Core Data Programming Guide.
+\newblock   (2014).
+\newblock
+\showURL{%
+\url{https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/CoreData/cdProgrammingGuide.html}}
+
+
+\bibitem[\protect\citeauthoryear{{Apple inc.}}{{Apple inc.}}{2014}]%
+        {voGestures}
+{{Apple inc.}} 2014.
+\newblock iPhone User Guide.
+\newblock   (2014).
+\newblock
+\showURL{%
+\url{http://manuals.info.apple.com/MANUALS/1000/MA1565/en_US/iphone_user_guide.pdf}}
+
+
+\bibitem[\protect\citeauthoryear{{Apple Inc.}}{{Apple Inc.}}{2014}]%
+        {coreLocation}
+{{Apple Inc.}} 2014.
+\newblock Location and Maps Programming Guide.
+\newblock   (2014).
+\newblock
+\showURL{%
+\url{https://developer.apple.com/library/ios/documentation/userexperience/conceptual/LocationAwarenessPG/CoreLocation/CoreLocation.html}}
+
+
+\bibitem[\protect\citeauthoryear{{Ariadne GPS}}{{Ariadne GPS}}{2014}]%
+        {ariadneGPS}
+{{Ariadne GPS}}. 2014.
+\newblock AriadneGPS - An innovative app for your mobility.
+\newblock   (2014).
+\newblock
+\showURL{%
+\url{http://www.ariadnegps.eu/}}
+
+
+\bibitem[\protect\citeauthoryear{Atluri, Cakmak, Lee, and Varanasi}{Atluri
+  et~al\mbox{.}}{2012}]%
+        {smartphones}
+{Venkat Atluri}, {Umit Cakmak}, {Richard Lee}, {and} {Shekhar Varanasi}. 2012.
+\newblock Making smartphones brilliant: Ten trends.
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{http://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/High\%20Tech/PDFs/Making_smartphones_brilliant_March_2012.ashx}}
+
+
+\bibitem[\protect\citeauthoryear{{BlindSquare}}{{BlindSquare}}{2013}]%
+        {blindsquare}
+{{BlindSquare}}. 2013.
+\newblock Real-time passenger information in Edinburgh - Bustracker.
+\newblock   (2013).
+\newblock
+\showURL{%
+\url{http://blindsquare.com/press/}}
+
+
+\bibitem[\protect\citeauthoryear{Bolbol, Cheng, Tsapakis, and Haworth}{Bolbol
+  et~al\mbox{.}}{2012}]%
+        {infer}
+{Adel Bolbol}, {Tao Cheng}, {Ioannis Tsapakis}, {and} {James Haworth}. 2012.
+\newblock \showarticletitle{Inferring hybrid transportation modes from sparse
+  GPS data using a moving window SVM classification.}
+\newblock {\em Computers, Environment and Urban Systems\/} {36}, 6 (2012),
+  526--537.
+\newblock
+\showURL{%
+\url{http://dblp.uni-trier.de/db/journals/urban/urban36.html\#BolbolCTH12}}
+
+
+\bibitem[\protect\citeauthoryear{{Canadian National Institute for the
+  Blind}}{{Canadian National Institute for the Blind}}{2013}]%
+        {iSimulator}
+{{Canadian National Institute for the Blind}}. 2013.
+\newblock EyeSimulator.
+\newblock   (2013).
+\newblock
+\showURL{%
+\url{http://www.cnib.ca/en/your-eyes/eye-conditions/eye-connect/Pages/EyeSimulator.aspx}}
+
+
+\bibitem[\protect\citeauthoryear{Cetin}{Cetin}{2013}]%
+        {bank}
+{Saadet~S. Cetin}. 2013.
+\newblock Recognition of Scottish Banknotes for the Blind and
+  Partially-Sighted.
+\newblock   (2013).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Christie}{Christie}{2009}]%
+        {edinbus}
+{Gordon Christie}. 2009.
+\newblock EdinBus - Lothian Buses Times In Edinburgh.
+\newblock   (2009).
+\newblock
+\showURL{%
+\url{https://itunes.apple.com/gb/app/edinbus-lothian-buses-times/id324503614?mt=8}}
+
+
+\bibitem[\protect\citeauthoryear{{F}ink and {M}icol}{{F}ink and
+  {M}icol}{2006}]%
+        {simEye}
+{{W}olfgang {F}ink} {and} {{D}aniel {M}icol}. 2006.
+\newblock \showarticletitle{sim{E}ye: computer-based simulation of visual
+  perception under various eye defects using {Z}ernike polynomials}.
+\newblock {\em {J}ournal of {B}iomedical {O}ptics\/} {11}, 5 ({O}ctober 2006),
+  054011(12).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{{Funka Nu}}{{Funka Nu}}{2012}]%
+        {funkaNu}
+{{Funka Nu}}. 2012.
+\newblock Guidelines for the development of accessible mobile interfaces.
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{http://www.funkanu.com/PageFiles/9429/Guidelines_for_the_development_of_accessible_mobile_interfaces.pdf}}
+
+
+\bibitem[\protect\citeauthoryear{Ganz, Schafer, Gandhi, Puleo, Wilson, and
+  Robertson}{Ganz et~al\mbox{.}}{2013}]%
+        {percept}
+{Aura Ganz}, {James Schafer}, {Siddhesh Gandhi}, {Elaine Puleo}, {Carole
+  Wilson}, {and} {Meg Robertson}. 2013.
+\newblock \showarticletitle{PERCEPT Indoor Navigation System for the Blind and
+  Visually Impaired: Architecture and Experimentation}.
+\newblock {\em Procedia Engineering\/} (2013), 351 -- 360.
+\newblock
+\showURL{%
+\url{http://www.hindawi.com/journals/ijta/2012/894869/cta/}}
+\newblock
+\shownote{International Conference on Design and Manufacturing (IConDM2013).}
+
+
+\bibitem[\protect\citeauthoryear{{Google inc.}}{{Google inc.}}{2012}]%
+        {iceCream}
+{{Google inc.}} 2012.
+\newblock Ice Cream Sandwich.
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{http://developer.android.com/about/versions/android-4.0-highlights.html}}
+
+
+\bibitem[\protect\citeauthoryear{{Google inc.}}{{Google inc.}}{2013}]%
+        {androidDistribution}
+{{Google inc.}} 2013.
+\newblock Android historical version distribution.
+\newblock   (2013).
+\newblock
+\showURL{%
+\url{http://developer.android.com/about/versions/android-4.0.html}}
+
+
+\bibitem[\protect\citeauthoryear{{Google inc.}}{{Google inc.}}{2014}]%
+        {androidVersions}
+{{Google inc.}} 2014.
+\newblock Dashboards.
+\newblock   (2014).
+\newblock
+\showURL{%
+\url{http://developer.android.com/about/dashboards/index.html}}
+
+
+\bibitem[\protect\citeauthoryear{Hix and Hartson}{Hix and Hartson}{1992}]%
+        {formativeEval}
+{Deborah Hix} {and} {H.~Rex Hartson}. 1992.
+\newblock Formative Evaluation: Ensuring Usability in User Interfaaces.
+\newblock   (1992).
+\newblock
+\showURL{%
+\url{http://eprints.cs.vt.edu/archive/00000340/01/TR-92-60.pdf}}
+
+
+\bibitem[\protect\citeauthoryear{{Humanware Inc.}}{{Humanware Inc.}}{2012}]%
+        {trekker}
+{{Humanware Inc.}} 2012.
+\newblock Trekker Breeze with UK postal code package.
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{https://itunes.apple.com/gb/app/lothian-buses-official-app/id570435211?ls=1\&mt=8}}
+
+
+\bibitem[\protect\citeauthoryear{Leporini, Buzzi, and Buzzi}{Leporini
+  et~al\mbox{.}}{2012}]%
+        {voiceover}
+{Barbara Leporini}, {Maria~Claudia Buzzi}, {and} {Marina Buzzi}. 2012.
+\newblock \showarticletitle{Interacting with Mobile Devices via VoiceOver:
+  Usability and Accessibility Issues}. In {\em Proceedings of the 24th
+  Australian Computer-Human Interaction Conference} {\em (OzCHI '12)}. ACM, New
+  York, NY, USA, 339--348.
+\newblock
+\showISBNx{978-1-4503-1438-1}
+\showDOI{%
+\url{http://dx.doi.org/10.1145/2414536.2414591}}
+
+
+\bibitem[\protect\citeauthoryear{{Lothian Buses}}{{Lothian Buses}}{2013}]%
+        {lothianWiFi}
+{{Lothian Buses}}. 2013.
+\newblock Wi-Fi on our buses.
+\newblock   (2013).
+\newblock
+\showURL{%
+\url{http://lothianbuses.com/customer-services/wi-fi}}
+
+
+\bibitem[\protect\citeauthoryear{{Lothian Buses Inc.}}{{Lothian Buses
+  Inc.}}{2013}]%
+        {lothian}
+{{Lothian Buses Inc.}} 2013.
+\newblock Lothian Buses - official app for m-tickets and bus times.
+\newblock   (2013).
+\newblock
+\showURL{%
+\url{https://itunes.apple.com/gb/app/lothian-buses-official-app/id570435211?ls=1\&mt=8}}
+
+
+\bibitem[\protect\citeauthoryear{Lowrie}{Lowrie}{2012}]%
+        {royalBlindSchoolReact}
+{Stuart Lowrie}. 2012.
+\newblock Real-time passenger information in Edinburgh - Bustracker.
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{http://www.polisnetwork.eu/uploads/Modules/PublicDocuments/2010-12-Edinburgh.pdf}}
+
+
+\bibitem[\protect\citeauthoryear{Malan and Bredemeyer}{Malan and
+  Bredemeyer}{1999}]%
+        {useCases}
+{Ruth Malan} {and} {Dana Bredemeyer}. 1999.
+\newblock Functional Requirements and Use Cases.
+\newblock   (1999).
+\newblock
+\showURL{%
+\url{http://www.bredemeyer.com/pdf_files/functreq.pdf}}
+
+
+\bibitem[\protect\citeauthoryear{Mata, Jaramillo, and Claramunt}{Mata
+  et~al\mbox{.}}{2011}]%
+        {metrobus}
+{Felix Mata}, {Andres Jaramillo}, {and} {Christophe Claramunt}. 2011.
+\newblock \showarticletitle{A Mobile Navigation and Orientation System for
+  Blind Users in a Metrobus Environment}.
+\newblock In {\em Web and Wireless Geographical Information Systems}. Lecture
+  Notes in Computer Science, Vol. 6574. Springer Berlin Heidelberg, 94--108.
+\newblock
+\showISBNx{978-3-642-19172-5}
+\showDOI{%
+\url{http://dx.doi.org/10.1007/978-3-642-19173-2_9}}
+
+
+\bibitem[\protect\citeauthoryear{{National Health Service}}{{National Health
+  Service}}{2014}]%
+        {astigmatism}
+{{National Health Service}}. 2014.
+\newblock Astigmatism.
+\newblock   (2014).
+\newblock
+\showURL{%
+\url{http://www.nhs.uk/conditions/astigmatism/Pages/Introduction.aspx}}
+
+
+\bibitem[\protect\citeauthoryear{Neate}{Neate}{2014}]%
+        {neatebox}
+{Gavin Neate}. 2014.
+\newblock The Guide Dog Owner Experience - Neatebox.
+\newblock   (2014).
+\newblock
+\showURL{%
+\url{http://neatebox.com/products/pedestrian-neatebox/}}
+
+
+\bibitem[\protect\citeauthoryear{Passini and Proulx}{Passini and
+  Proulx}{1988}]%
+        {wayfinding}
+{Romedi Passini} {and} {Guyltne Proulx}. 1988.
+\newblock \showarticletitle{Wayfinding without Vision: An Experiment with
+  Congenitally Totally Blind People}.
+\newblock {\em Environment and Behavior\/} {20}, 2 (1988), 227--252.
+\newblock
+\showDOI{%
+\url{http://dx.doi.org/10.1177/0013916588202006}}
+
+
+\bibitem[\protect\citeauthoryear{{Pey et al}}{{Pey et al}}{2007}]%
+        {executive}
+{{Pey et al}}. 2007.
+\newblock Functionality and the Needs of Blind and Partially-Sighted Adults in
+  the UK - Executive Summary.
+\newblock   (2007).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Praveen and Paily}{Praveen and Paily}{2013}]%
+        {Praveen2013351}
+{R.~Gnana Praveen} {and} {Roy~P. Paily}. 2013.
+\newblock \showarticletitle{Blind Navigation Assistance for Visually Impaired
+  based on Local Depth Hypothesis from a Single Image}.
+\newblock {\em Procedia Engineering\/} {64}, 0 (2013), 351 -- 360.
+\newblock
+\showISSN{1877-7058}
+\showDOI{%
+\url{http://dx.doi.org/10.1016/j.proeng.2013.09.107}}
+\newblock
+\shownote{International Conference on Design and Manufacturing (IConDM2013).}
+
+
+\bibitem[\protect\citeauthoryear{Riley}{Riley}{1999}]%
+        {gpsCity}
+{John~D. Riley}. 1999.
+\newblock Evaluation of Travel Time Estimates Derived From Automatic Vehicle
+  Identification Tags in San Antonio, TX.
+\newblock   (1999).
+\newblock
+\showURL{%
+\url{http://www.globe.gov/documents/2631933/6965868/42534991.pdf}}
+
+
+\bibitem[\protect\citeauthoryear{{RNIB}}{{RNIB}}{2012a}]%
+        {reactEdinburgh}
+{{RNIB}}. 2012a.
+\newblock Case study - First ScotRail.
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{http://www.rnib.org.uk/professionals/services/tactile/rnibreact/Pages/rnib_react.aspx}}
+
+
+\bibitem[\protect\citeauthoryear{{RNIB}}{{RNIB}}{2012b}]%
+        {react}
+{{RNIB}}. 2012b.
+\newblock RNIB React - your talking sign system.
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{http://www.rnib.org.uk/professionals/services/tactile/rnibreact/Pages/rnib_react.aspx}}
+
+
+\bibitem[\protect\citeauthoryear{RNIB}{RNIB}{2012a}]%
+        {shaping}
+{RNIB}. 2012a.
+\newblock Shaping our future.
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{http://www.rnib.org.uk/aboutus/Documents/shaping_our_future_booklet.pdf}}
+
+
+\bibitem[\protect\citeauthoryear{RNIB}{RNIB}{2012b}]%
+        {stopForMe}
+{RNIB}. 2012b.
+\newblock Stop for me, speak to me.
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{http://www.rnib.org.uk/getinvolved/campaign/gettingaround/Documents/Stop_for_me_speak_to_me_bus_campaign_report.pdf}}
+
+
+\bibitem[\protect\citeauthoryear{RNIB}{RNIB}{2013}]%
+        {sightProblemsGuide}
+{RNIB}. 2013.
+\newblock Sight Problems Guide.
+\newblock   (2013).
+\newblock
+\showURL{%
+\url{http://www.rnib.org.uk/livingwithsightloss/Documents/sight_problems_guide.pdf}}
+
+
+\bibitem[\protect\citeauthoryear{{ScotRail}}{{ScotRail}}{2007}]%
+        {scotrail}
+{{ScotRail}}. 2007.
+\newblock On track for a positive 'react'-ion following investment from First
+  ScotRail.
+\newblock   (2007).
+\newblock
+\showURL{%
+\url{http://www.scotrail.co.uk/content/track-positive-react-ion-following-investment-first-scotrail}}
+
+
+\bibitem[\protect\citeauthoryear{{Sendero Group}}{{Sendero Group}}{2012a}]%
+        {sendero}
+{{Sendero Group}}. 2012a.
+\newblock Sendero GPS LookAround.
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{https://www.senderogroup.com/products/shopiphone.htm}}
+
+
+\bibitem[\protect\citeauthoryear{{Sendero Group}}{{Sendero Group}}{2012b}]%
+        {senderoSupport}
+{{Sendero Group}}. 2012b.
+\newblock Sendero GPS LookAround Support \& Documentation.
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{https://www.senderogroup.com/products/shopiphone.htm}}
+
+
+\bibitem[\protect\citeauthoryear{{Travel Line}}{{Travel Line}}{2013}]%
+        {scottalk}
+{{Travel Line}}. 2013.
+\newblock Scot Talk.
+\newblock   (Dec 2013).
+\newblock
+\showURL{%
+\url{https://itunes.apple.com/gb/app/scot-talk/id731367966?mt=8}}
+
+
+\bibitem[\protect\citeauthoryear{{W3C}}{{W3C}}{2012}]%
+        {barriers}
+{{W3C}}. 2012.
+\newblock Barriers Common to Mobile Device Users and People with Disabilities.
+\newblock   (2012).
+\newblock
+\showURL{%
+\url{http://www.w3.org/WAI/mobile/experiences}}
+
+
+\bibitem[\protect\citeauthoryear{{Web Accessibility In Mind}}{{Web
+  Accessibility In Mind}}{2014a}]%
+        {webaim}
+{{Web Accessibility In Mind}}. 2014a.
+\newblock Visual Disabilities.
+\newblock   (2014).
+\newblock
+\showURL{%
+\url{http://webaim.org/articles/visual/}}
+
+
+\bibitem[\protect\citeauthoryear{{Web Accessibility In Mind}}{{Web
+  Accessibility In Mind}}{2014b}]%
+        {webaimLowVision}
+{{Web Accessibility In Mind}}. 2014b.
+\newblock Visual Disabilities.
+\newblock   (2014).
+\newblock
+\showURL{%
+\url{http://webaim.org/articles/visual/lowvision}}
+
+
+\bibitem[\protect\citeauthoryear{WHO}{WHO}{2010}]%
+        {icd}
+{WHO}. 2010.
+\newblock The International Classification of Diseases.
+\newblock   (2010).
+\newblock
+\showURL{%
+\url{http://apps.who.int/classifications/icd10/browse/2010/en\#/H54.2}}
+
+
+\bibitem[\protect\citeauthoryear{Wonder}{Wonder}{2011}]%
+        {wonder}
+{Stevie Wonder}. 2011.
+\newblock   (2011).
+\newblock
+\showURL{%
+\url{https://www.youtube.com/watch?v=O2Tkj8SIHMU\#t=279}}
+
+
+\bibitem[\protect\citeauthoryear{{World Health Organisation}}{{World Health
+  Organisation}}{2013}]%
+        {factsheet}
+{{World Health Organisation}}. 2013.
+\newblock Visual impairment and blindness.
+\newblock   (2013).
+\newblock
+\showURL{%
+\url{http://www.who.int/mediacentre/factsheets/fs282/en/}}
+
+
+\bibitem[\protect\citeauthoryear{Zandbergen}{Zandbergen}{2009}]%
+        {gpsAccuracy}
+{Paul~A Zandbergen}. 2009.
+\newblock Accuracy of iPhone Locations: A Comparison of Assisted GPS, WiFi and
+  Cellular Positioning.
+\newblock   (2009).
+\newblock
+\showURL{%
+\url{http://www.globe.gov/documents/2631933/6965868/42534991.pdf}}
+
+
+\end{thebibliography}

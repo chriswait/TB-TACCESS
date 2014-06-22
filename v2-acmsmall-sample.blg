@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: v2-acmsmall-sample.aux
+The style file: ACM-Reference-Format-Journals.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: mybibfile.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no number and no volume in percept
+Warning--require articleno with numpages field in voiceover
+Warning--empty address in metrobus
+You've used 56 entries,
+            5290 wiz_defined-function locations,
+            1493 strings with 22600 characters,
+and the built_in function-call counts, 82782 in all, are:
+= -- 11086
+> -- 1392
+< -- 1
++ -- 347
+- -- 3994
+* -- 5559
+:= -- 8377
+add.period$ -- 283
+call.type$ -- 56
+change.case$ -- 303
+chr.to.int$ -- 51
+cite$ -- 59
+duplicate$ -- 3182
+empty$ -- 2400
+format.name$ -- 575
+if$ -- 15221
+int.to.chr$ -- 6
+int.to.str$ -- 0
+missing$ -- 26
+newline$ -- 593
+num.names$ -- 443
+pop$ -- 1184
+preamble$ -- 1
+purify$ -- 578
+quote$ -- 0
+skip$ -- 957
+stack$ -- 0
+substring$ -- 16519
+swap$ -- 243
+text.length$ -- 6976
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 784
+warning$ -- 3
+while$ -- 483
+width$ -- 0
+write$ -- 1100
+(There were 3 warnings)
