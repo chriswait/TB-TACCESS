@@ -1,0 +1,9 @@
+echo "Compiling...";
+pdflatex Talking-Buses.tex > /dev/null;
+echo "Compiling references..."
+bibtex Talking-Buses.aux > /dev/null;
+echo "Compiling again..."
+pdflatex Talking-Buses.tex > /dev/null;
+echo "And again for luck"
+pdflatex Talking-Buses.tex;
+open Talking-Buses.pdf;

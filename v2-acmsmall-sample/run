@@ -1,0 +1,9 @@
+echo "Compiling...";
+pdflatex v2-acmsmall-sample.tex > /dev/null;
+echo "Compiling references..."
+bibtex v2-acmsmall-sample.aux > /dev/null;
+echo "Compiling again..."
+pdflatex v2-acmsmall-sample.tex > /dev/null;
+echo "And again for luck"
+pdflatex v2-acmsmall-sample.tex;
+open v2-acmsmall-sample.pdf;
